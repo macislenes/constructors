@@ -1,7 +1,7 @@
 {
   "name": "wordguess",
   "version": "1.0.0",
-  "description": "",
+  "description": "## What is LIRIbot and a quick overview:",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -11,7 +11,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^2.4.1",
-    "inquirer": "^6.2.1"
-  }
+    "chalk": "^2.4.2",
+    "inquirer": "^6.5.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macislenes/constructors.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/macislenes/constructors/issues"
+  },
+  "homepage": "https://github.com/macislenes/constructors#readme"
 }
